@@ -1,0 +1,11 @@
+{
+  "name": "kabanets/uaserv",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\User\\": "./src"
+    }
+  },
+  "require": {
+    "kabanets/uainterface": "master-dev"
+  }
+}
